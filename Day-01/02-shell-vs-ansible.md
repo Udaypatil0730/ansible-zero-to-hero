@@ -16,7 +16,7 @@ for example, run the below shell script twice and you will notice the script wil
 set -e 
 
 mkdir test-demo
-echo "hi"
+echo "hi there"
 ```
 
 - Scalability and flexibility
