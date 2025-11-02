@@ -15,6 +15,10 @@ A static inventory file is typically a plain text file (usually named hosts or i
 web1.example.com
 web2.example.com
 
+[appservers]
+app1.example.cpm
+app2.example.com
+
 [dbservers]
 db1.example.com
 db2.example.com
